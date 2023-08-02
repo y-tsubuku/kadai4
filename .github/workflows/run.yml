@@ -4,4 +4,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: ./greatest_common_divisor_test.sh
+      - run: bash ./greatest_common_divisor_test.sh
